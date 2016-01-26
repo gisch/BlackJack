@@ -216,5 +216,6 @@ public class Deck
 				Deck.shuffle();
 				Deck.dealersValue();
 				Deck.playersValue();
+				//github tester
 			}
 	}
